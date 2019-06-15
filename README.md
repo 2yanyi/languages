@@ -1,38 +1,47 @@
-# languages
+# Languages
 programming languages
 
-Language | Link
+<br>
+
+语言 | 描述
 ---|---
-HTML/CSS | https://developer.mozilla.org
-JavaScript | https://javascript.com
-SQL |
-C#/F#/VB | https://dotnet.microsoft.com
-Java | https://oracle.com/technetwork/java/javase
-Python | https://python.org
-Shell | https://gnu.org
-PHP | https://php.net
-TypeScript | https://typescriptlang.org
-C++ |
-Go | https://golang.org https://golang.google.cn
-C |
-Kotlin | https://kotlincn.net
-Swift | https://developer.apple.com
-Ruby | https://ruby-lang.org
-Objective-C | https://objccn.io
-Scala | https://scala-lang.org
-Dart | https://dart.dev
-Groovy | https://groovy-lang.org
-R | https://r-project.org
-Rust | https://rust-lang.org
-Lua | https://lua.org
-Perl | https://perlchina.org
-Matlab | https://mathworks.cn
-Assembly |
-Elixir | https://elixir-lang.org
-Haskell | https://haskell.org
-CoffeeScript | https://coffeescript.org
-Clojure | https://clojure.org
-Julia | https://julialang.org
-F# | https://fsharp.org
-Delphi |
-Crystal | https://crystal-lang.org
+||
+**编译型语言** |
+[C]() | C是一种通用的编程语言，广泛用于系统软件与应用软件的开发。于1969年至1973年间，为了移植与开发UNIX操作系统，由丹尼斯·里奇与肯·汤普逊，以B语言为基础，在贝尔实验室设计、开发
+[C++]() | C++是一种使用广泛的计算机程序设计语言。它是一种通用程序设计语言，支持多重编程模式，例如过程化程序设计、数据抽象、面向对象程序设计、泛型程序设计和设计模式等。 比雅尼·斯特劳斯特鲁普博士在贝尔实验室工作期间在20世纪80年代发明并实现了C++
+[Go]() | Go 是Google开发的一种 静态强类型、编译型、并发型，并具有 GC(垃圾回收功能) 的编程语言。Go是基于Inferno操作系统所开发的。Go语言于2009年11月正式宣布推出，成为开放源代码项目，并在Linux及Mac OS X平台上进行了实现，后来追加了Windows系统下的实现。 并且在 Go1.5 完成了自举
+[Rust]() | Rust是由Mozilla主导开发的通用、编译型编程语言。设计准则为“安全、并发、实用”，支持函数式、并发式、过程式以及面向对象的编程风格。 Rust 语言原本是Mozilla 员工 Graydon Hoare 的私人项目，而 Mozilla 于 2009 年开始赞助这个项目，并且在2010 年首次揭露了它的存在
+[Objective-C]() | Objective-C是一种通用、高级、面向对象的编程语言。它扩展了标准的ANSI C编程语言，将Smalltalk式的消息传递机制加入到ANSI C中。当前主要支持的编译器有GCC和Clang。 Objective-C的商标权属于苹果公司，苹果公司也是这个编程语言的主要开发者
+[Julia](Julia) | Julia是一种高级通用动态编程语言，它最初是为了满足高性能数值分析和计算科学的需要而设计的，不需要编译器速度快，也可用于客户端和服务器的Web用途、低级系统编程或用作规约语言。 Julia设计的独特之处包括，参数多态的类型系统，完全动态语言中的类型，以及它多分派的核心编程范型
+||
+**虚拟机语言** |
+[C#]() |C#是微软推出的一种基于.NET框架的、面向对象的高级编程语言。C#以.NET框架类库作为基础，拥有类似Visual Basic的快速开发能力。C#由安德斯·海尔斯伯格主持开发，微软在2000年发布了这种语言，希望借助这种语言来取代Java。C#已经成为Ecma国际和国际标准组织的标准规范
+[F#]() | F#是由微软发展的为.NET语言提供运行环境的程序设计语言，是函数编程语言，函数编程语言最重要的基础是Lambda Calculus。它是基于OCaml的，而OCaml是基于ML函数程序语言。有时F#和OCaml的程序是可以交互编译的
+[VB]() | Visual Basic是由微软公司开发的包含环境的事件驱动编程语言。它源自于BASIC编程语言。VB拥有图形用户界面和快速应用程序开发系统，可以轻易的使用DAO、RDO、ADO连接数据库，或者轻松的创建ActiveX控件。程序员可以轻松地使用VB提供的组件快速创建一个应用程序
+[Java]() | Java是一种广泛使用的计算机编程语言，拥有跨平台、面向对象、泛型编程的特性，广泛应用于企业级Web应用开发和移动应用开发
+[Kotlin]() | Kotlin是一种在Java虚拟机上运行的静态类型编程语言，它也可以被编译成为JavaScript源代码。它主要是由俄罗斯圣彼得堡的JetBrains开发团队所发展出来的编程语言，其名称来自于圣彼得堡附近的科特林岛
+[Scala]() | Scala是一门多范式的编程语言，设计初衷是要集成面向对象编程和函数式编程的各种特性
+[Dart]() || Dart是一种适用于万维网的开放源代码编程语言，由Google主导开发，于2011年10月公开。它的开发团队由Google Chrome浏览器V8引擎团队的领导者拉尔斯·巴克主持，目标在于成为下一代结构化Web开发语言。 类似JavaScript，Dart也是一种面向对象语言，但是它采用基于类编程
+[Groovy]() | Apache的Groovy是Java平台上设计的面向对象编程语言。这门动态语言拥有类似Python、Ruby和Smalltalk中的一些特性，可以作为Java平台的脚本语言使用，Groovy代码动态地编译成运行于Java虚拟机上的Java字节码，并与其他Java代码和库进行互操作
+[Elixir]() | Elixir是一个基于Erlang虚拟机的函数式、面向并行的通用编程语言。Elixir以Erlang为基础，支持分布式、高容错、实时应用程序的开发，亦可通过宏实现元编程对其进行扩展，并通过协议支持多态
+[Erlang](Erlang) | Erlang是一种通用的并发程序设计语言，它由乔·阿姆斯特朗在瑞典电信设备制造商爱立信所辖的计算机科学研究室开发，目的是创造一种可以应付大规模并发活动的程序设计语言和运行环境。Erlang于1987年发布正式版本，最早是爱立信拥有的私有软件，经过十年的发展，于1998年发表开放源码版本
+[Clojure]() | Clojure是Lisp编程语言在Java平台上的现代、动态及函数式方言。 与其他Lisp一样，Clojure视代码为数据且拥有一套Lisp宏系统。 其开发过程当前由社区驱动， 其作者里奇·希基则以终身仁慈独裁者的身份进行监督。 Clojure提倡不可变性与持久数据结构并鼓励程序员显式地管理标识及其状态
+||
+**解释型语言** |
+[JavaScript]() | JavaScript是一种高级的、解释型的编程语言。JavaScript是一门基于原型、函数先行的语言，是一门多范式的语言，它支持面向对象编程，命令式编程，以及函数式编程。它提供语法来操控文本、数组、日期以及正则表达式等，不支持I/O，比如网络、存储和图形等，但这些都可以由它的宿主环境提供支持
+[nodeJs]() | Node.js是一个能够在服务器端运行JavaScript的开放源代码、跨平台JavaScript运行环境。Node.js由Node.js基金会持有和维护，并与Linux基金会有合作关系
+[Python]() | Python是一种广泛使用的解释型、高级编程、通用型编程语言，由吉多·范罗苏姆创造，第一版发布于1991年。可以视之为一种改良的LISP。Python的设计哲学强调代码的可读性和简洁的语法。相比于C++或Java，Python让开发者能够用更少的代码表达想法。不管是小型还是大型程序，该语言都试图让程序的结构清晰明了
+[PHP]() | PHP是一种开源的通用计算机脚本语言，尤其适用于网络开发并可嵌入HTML中使用。PHP的语法借鉴吸收C语言、Java和Perl等流行计算机语言的特点，易于一般程序员学习。PHP的主要目标是允许网络开发人员快速编写动态页面，但PHP也被用于其他很多领域
+[CoffeeScript]() | CoffeeScript是一套JavaScript的转译语言。受到Ruby、Python与Haskell等语言的启发，CoffeeScript增强了JavaScript的简洁性与可读性。此外，CoffeeScript也新增了更复杂的功能，例如列表内涵、模式匹配等
+[TypeScript]() | TypeScript是一种由微软开发的自由和开源的编程语言。它是JavaScript的一个严格超集，并添加了可选的静态类型和使用看起来像基于类的面向对象编程语法操作Prototype。C#的首席架构师以及Delphi和Turbo Pascal的创始人安德斯·海尔斯伯格参与了TypeScript的开发
+[Ruby]() | Ruby 是一种面向对象、命令式、函数式、动态的通用编程语言。在20世纪90年代中期由日本计算机科学家松本行弘设计并开发。 遵守BSD许可证和Ruby License。它的灵感与特性来自于Perl、Smalltalk、Eiffel、Ada以及Lisp语言
+[Lua]() | Lua是一个简洁、轻量、可扩展的脚本语言。Lua在葡萄牙语中的意思是月亮
+[Perl]() | Perl是高端、通用、解释型、动态的编程语言家族。最初设计者拉里·沃尔为了让在UNIX上进行报表处理的工作变得更方便，决定开发一个通用的脚本语言，而在1987年12月18日发表。当前，Perl语言家族包含两个分支Perl 5以及Perl 6
+[R]() | R语言，一种自由软件编程语言与操作环境，主要用于统计分析、绘图、数据挖掘。R本来是由来自新西兰奥克兰大学的罗斯·伊哈卡和罗伯特·杰特曼开发，现在由“R开发核心团队”负责开发。R基于S语言的一个GNU计划项目，所以也可以当作S语言的一种实现，通常用S语言编写的代码都可以不作修改的在R环境下运行
+||
+**不确定**|
+[Swift]() | Swift编程语言，支持多编程范式和编译式，用来撰写基于macOS/OS X、iOS、watchOS和tvOS的软件。 苹果公司于2014年在苹果开发者年会发布了Swift编程语言。从设计上苹果公司让Swift与Objective-C共存在苹果公司的操作系统上
+[Matlab]() | MATLAB是MATrix LABoratory的缩写，是一款由美国The MathWorks公司出品的商业数学软件。MATLAB是一种用于算法开发、数据可视化、数据分析以及数值计算的高级技术计算语言和交互式环境
+[Haskell]() | Haskell是一种标准化的，通用的纯函数编程语言，有非限定性语义和强静态类型。它的命名源自美国逻辑学家哈斯凯尔·加里，他在数理逻辑方面上的工作使得函数式编程语言有了广泛的基础。在Haskell中，“函数是第一类对象”。作为一门函数编程语言，主要控制结构是函数
+[Crystal]() | 像C一样快，像Ruby一样光滑
+[Delphi]() | Delphi，是Windows平台下Object Pascal语言集成开发环境，支持应用程序快速开发。最初版本由美国Borland公司于1995年开发，用于接替DOS时代盛行一时的Turbo Pascal”。主创者为安德斯·海尔斯伯格。经过数年发展，此产品已转移至Embarcadero公司旗下
