@@ -3,7 +3,7 @@ programming languages
 
 <br>
 
-|图标|流行度|名称|描述
+|logo|popular|name|comment
 ---|---|---|---
 ![](https://www.google.com/s2/favicons?domain=www.oracle.com) | 50% | [Java](https://www.oracle.com/technetwork/java/javase) | Java是一种广泛使用的计算机编程语言，拥有跨平台、面向对象、泛型编程的特性，广泛应用于企业级Web应用开发和移动应用开发
 ![](https://www.google.com/s2/favicons?domain=www.python.org) | 49% | [Python](https://www.python.org) | Python是一种广泛使用的解释型、高级编程、通用型编程语言，由吉多·范罗苏姆创造，第一版发布于1991年。可以视之为一种改良的LISP。Python的设计哲学强调代码的可读性和简洁的语法。相比于C++或Java，Python让开发者能够用更少的代码表达想法。不管是小型还是大型程序，该语言都试图让程序的结构清晰明了
