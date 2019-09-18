@@ -5,7 +5,7 @@ programming languages
 
 |logo|popular|name|comment
 :---:|:---:|:---:|:---
-![](https://www.google.com/s2/favicons?domain=www.oracle.com) | 50% | [Java](https://www.oracle.com/technetwork/java/javase) | Java是一种广泛使用的计算机编程语言，拥有跨平台、面向对象、泛型编程的特性，广泛应用于企业级Web应用开发和移动应用开发
+![](https://www.google.com/s2/favicons?domain=openjdk.java.net) | 50% | [Java](https://openjdk.java.net) | Java是一种广泛使用的计算机编程语言，拥有跨平台、面向对象、泛型编程的特性，广泛应用于企业级Web应用开发和移动应用开发
 ![](https://www.google.com/s2/favicons?domain=www.python.org) | 49% | [Python](https://www.python.org) | Python是一种广泛使用的解释型、高级编程、通用型编程语言，由吉多·范罗苏姆创造，第一版发布于1991年。可以视之为一种改良的LISP。Python的设计哲学强调代码的可读性和简洁的语法。相比于C++或Java，Python让开发者能够用更少的代码表达想法。不管是小型还是大型程序，该语言都试图让程序的结构清晰明了
 ![](https://www.google.com/s2/favicons?domain=php.net) | 29% | [PHP](https://php.net) | PHP是一种开源的通用计算机脚本语言，尤其适用于网络开发并可嵌入HTML中使用。PHP的语法借鉴吸收C语言、Java和Perl等流行计算机语言的特点，易于一般程序员学习。PHP的主要目标是允许网络开发人员快速编写动态页面，但PHP也被用于其他很多领域
 ![](https://www.google.com/s2/favicons?domain=www.typescriptlang.org) | 25% | [TypeScript](https://www.typescriptlang.org) | TypeScript是一种由微软开发的自由和开源的编程语言。它是JavaScript的一个严格超集，并添加了可选的静态类型和使用看起来像基于类的面向对象编程语法操作Prototype。C#的首席架构师以及Delphi和Turbo Pascal的创始人安德斯·海尔斯伯格参与了TypeScript的开发
