@@ -2,8 +2,8 @@
 
 <br>
 
-|语言|C|Go|Js|Kotlin|
-|-|-|-|-|-|
+|C|Go|Js|Kotlin|
+|-|-|-|-|
 
 <br>
 
@@ -14,8 +14,8 @@
 #include <stdio.h>
 
 void main() {
-    char out[] = {"C string"};
-    printf("print %s\n", out);
+    char op[] = {"C string"};
+    printf("print %s\n", op);
 }
 ```
 ```go
@@ -25,15 +25,15 @@ package main
 import "fmt"
 
 func main() {
-	var out = "Go string"
-	fmt.Printf("print %s\n", out)
+    op := "Go string"
+    fmt.Printf("print %s\n", op)
 }
 ```
 ```js
 // Js
 function __main_() {
-    let out = "Js string";
-    console.log(`print ${out}`);
+    let op = "Js string";
+    console.log(`print ${op}`);
 }
 __main_();
 ```
@@ -42,8 +42,8 @@ __main_();
 package main
 
 fun main() {
-    var out = "Kotlin string"
-    println("print $out")
+    var op = "Kotlin string"
+    println("print $op")
 }
 ```
 
@@ -176,11 +176,11 @@ for i < 10 {
 // or
 i = 0
 for {
-	i++
-	if i > 10 {
+    i++
+    if i > 10 {
         break
-	}
-	// ...
+    }
+    // ...
 }
 ```
 ```js
